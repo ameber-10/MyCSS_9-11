@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+h1{
+  /* フォントの種類 */
+  font-family: Verdana,'Arial-Black',メイリオ,sans-serif;
+}
+
+/* #10 line-heightで行の高さを調整しよう */
+p{
+  font-size: 16px;
+  line-height: 48px;
+  line-height: 3em;
+  line-height: 3;
+  background-color: pink;
+}
+
+main{
+  font-size: 32px;
+  /* line-height: 2em; */
+  line-height: 2;
+}
+
+section{
+  font-size: 16px;
+}
